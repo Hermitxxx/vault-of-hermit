@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "skills": {
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "commit": "57217cf86ba38148a57af9e90d14a4c049558330",
+      "sourceType": "github",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "computedHash": "7bc223e2aafbdbf6e50ea243ba6ef67fe432bb069ab439fea0390795dac0bf7f"
+    },
+    "reverse-engineer-anything": {
+      "source": "morluto/rea",
+      "commit": "4491c84c82140a43fa12390b727840a433875ba8",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/reverse-engineer-anything/SKILL.md",
+      "computedHash": "80e69aa53f007c78252b8506f0be75440c87b5640373a1920cc95a73e31c07da"
+    },
+    "senior-frontend": {
+      "source": "composio-community/awesome-claude-plugins",
+      "commit": "c511c77b6e4860bc076e5c5b3ac55c51030d602d",
+      "sourceType": "github",
+      "skillPath": "senior-frontend/skills/senior-frontend/SKILL.md",
+      "computedHash": "574005a9d06f7676116ef0e66495e224193626057b5df17587245112ba0c11f0"
+    },
+    "unslop": {
+      "source": "cursor/plugins",
+      "commit": "e58dd043600587dbaf58ba315e7f2b38373eeb43",
+      "sourceType": "github",
+      "skillPath": "harness/pstack/claude-code/skills/unslop/SKILL.md",
+      "computedHash": "4bbcb6719a8f0f6f7fb46752e1c360791d7758a837708e300a06fc7d6907938c"
+    }
+  }
+}
